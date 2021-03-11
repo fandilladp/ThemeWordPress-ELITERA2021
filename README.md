@@ -1,6 +1,6 @@
 # ThemeWordPress-ELITERA2021
 
-Persiapan Envirollment
+Persiapan Environment
 
 
 Cara Instalasi
